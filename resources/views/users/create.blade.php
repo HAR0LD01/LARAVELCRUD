@@ -1,6 +1,6 @@
 @extends('users.layout')
 
-@section('content')
+@section('content') 
 
 <div class="container">
     <div class="row mb-4">
